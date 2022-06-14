@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @learnhard22
-- 👀 I’m interested in ROS2 packages for SLAM by using LiDAR
+- 👀 I’m interested in ROS packages for SLAM by using LiDAR
 - 🌱 I’m currently writing my bachelor thesis
 
 <!---
